@@ -1,4 +1,4 @@
-name: DEPLOY TO AWS
+name: DEPLOY TO AWS Dev
 
 on:
     pull_request:
